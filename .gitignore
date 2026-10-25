@@ -1,0 +1,15 @@
+# Java / Maven
+backend/target/
+*.class
+*.log
+# Node
+frontend/node_modules/
+frontend/dist/
+# Env files with real values
+.env
+.env.local
+# IDEs / OS
+.idea/
+.vscode/
+*.iml
+.DS_Store
