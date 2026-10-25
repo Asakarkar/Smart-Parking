@@ -100,8 +100,8 @@ smart-parking-system/
 ```
 
 ## Screenshots
-Add your own after running the app (Dashboard, Slots, Entry, Active Bookings, Reports):
-`docs/dashboard.png`, `docs/slots.png`, …
+![alt text](image-2.png)
+![alt text](image-1.png)
 
 ## Troubleshooting
 | Problem | Fix |
